@@ -1,5 +1,5 @@
 # Desafio Accenture
-> Desenvolvimento de uma API Rest com Node.js.
+> Desenvolvimento de um aplicativo backend que irá expor uma API RESTful de cadastro e login de usuários.
 
 Cadastro e Login de usuários.
 
