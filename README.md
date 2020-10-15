@@ -1,10 +1,6 @@
 # Desafio Accenture
 > Desenvolvimento de uma API Rest com Node.js.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Cadastro e Login de usuários.
 
 ![](../header.png)
